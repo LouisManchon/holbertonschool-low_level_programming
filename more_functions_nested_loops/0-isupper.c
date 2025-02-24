@@ -2,7 +2,7 @@
 
 /**
  * isupper - Return 1 if it's uppercase 0 otherwise
- *
+ * @c : is uppercase or otherwise
  * Return: (0)
  */
 
