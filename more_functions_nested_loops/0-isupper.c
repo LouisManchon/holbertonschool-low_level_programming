@@ -5,7 +5,6 @@
  * @c : is uppercase or otherwise
  * Return: (0)
  */
-
 int _isupper(int c)
 {
 	if ((c > 64) && (c < 91))
