@@ -2,7 +2,7 @@
 
 /**
  * print_triangle - draws a triangle line on the terminal
- *
+ *@size: les lignes
  */
 
 void print_triangle(int size)
