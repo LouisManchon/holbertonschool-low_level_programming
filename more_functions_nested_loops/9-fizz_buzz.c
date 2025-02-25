@@ -25,7 +25,7 @@ int main(void)
 		else if (i % 3 && 5 == 0)
 		{
 			printf(" ");
-			printf("Fizz Buzz");
+			printf("FizzBuzz");
 		}
 		else
 		{
