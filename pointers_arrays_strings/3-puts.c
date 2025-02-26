@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * _puts -
- *@str
+ * _puts - prints a string, followed by a new line
+ *@str: string de la task
  *
- * Return: 
+ * Return: string demander
  */
 
 void _puts(char *str)
