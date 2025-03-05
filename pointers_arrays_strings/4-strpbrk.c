@@ -17,7 +17,7 @@ char *_strpbrk(char *s, char *accept)
 	{
 		for (search = 0 ; accept[search] != '\0'; search++)
 		{
-			if(*s== accept[search])
+			if (*s == accept[search])
 				return (s);
 		}
 		s++;
