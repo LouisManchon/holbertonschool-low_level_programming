@@ -8,7 +8,6 @@
  * Return: result
  */
 
-int find_sqrt(int n);
 int _sqrt_recursion(int n)
 {
 	if (n < 0)
