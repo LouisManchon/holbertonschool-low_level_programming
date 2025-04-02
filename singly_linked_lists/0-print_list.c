@@ -3,9 +3,6 @@
 /**
  * print_list - prints all the elements of a list
  * @h: head of the list
- * @str: string
- * @len: length of the string 
- * @next: points to the next node
  *
  * Return: number of nodes
  */
